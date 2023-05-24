@@ -1,6 +1,6 @@
- EX-2 IMPLEMENTATION OF STOP AND WAIT PROTOCOL
+# EX-2 IMPLEMENTATION OF STOP AND WAIT PROTOCOL
 
-## DATE:16-03-2023
+# DATE:16-03-2023
 
 # AIM : To write a python program to perform stop and wait protocol.
 
@@ -15,6 +15,7 @@
 
 # PROGRAM :
 # CLIENT :
+```
 # Developed By : KISHORE.S
 # Register Number : 22008388
 import socket
@@ -32,15 +33,16 @@ while True:
     else:
         c.close()
         break
-
+```
 # SERVER :
-
+```
 import socket
 s=socket.socket()
 s.connect(('localhost',8000))
 while True:
     print(s.recv(1024).decode())
     s.send("Acknowledgement Recived".encode())
+```
 # OUTPUT :
 
 # CLIENT :
