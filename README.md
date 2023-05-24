@@ -47,10 +47,12 @@ while True:
 # OUTPUT :
 
 # CLIENT :
-![image](https://github.com/Kishore2o/EX-2/assets/118679883/50bcdc11-e4de-4b5b-bd92-ad7b72d281e7)
+![image](https://github.com/Kishore2o/EX-2/assets/118679883/811e857b-9545-4c0d-ba31-5da778eb2205)
 
 # SERVER :
-![image](https://github.com/Kishore2o/EX-2/assets/118679883/edef0328-a979-46ca-9bec-2cef58a005e5)
+![image](https://github.com/Kishore2o/EX-2/assets/118679883/04a93395-fee4-491b-b3da-7bc402a9e204)
+
+
 
 
 RESULT :
